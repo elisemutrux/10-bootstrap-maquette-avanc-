@@ -2,9 +2,6 @@
 // css variables
 // ==================================== */
 
-:root {
-}
-
 /* ====================================
 // reset rules
 // ==================================== */
@@ -56,7 +53,7 @@ video {
 }
 
 header {
-  background: #F5AD4B;
+  background-image: url(../img/background-header.jpg);
 }
 
 footer {
